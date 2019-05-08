@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://mooquaubi.tiffanyfunk.com/sitemap.xml
